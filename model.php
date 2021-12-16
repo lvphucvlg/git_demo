@@ -16,3 +16,5 @@ class danhgiacovid extends Model
         return $report;
     }
 }
+
+TUNGGGGGGGGGGGGG
