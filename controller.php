@@ -30,3 +30,6 @@ class DanhGiaCovidController extends Controller
         return view('pages.baocao.danhgiacovid');
     }
 }
+
+
+CHÀO THẰNG PHÚC
