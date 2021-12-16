@@ -30,3 +30,5 @@ class DanhGiaCovidController extends Controller
         return view('pages.baocao.danhgiacovid');
     }
 }
+
+PHUCCCCCCCCCCCC
